@@ -1,0 +1,17 @@
+streamlit
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python-headless
+
+pillow
+numpy
+librosa
+moviepy
+tensorflow
+keras
+gunicorn
+flask
+-r backend/requirements.txt
+-r frontend/requirements.txt
